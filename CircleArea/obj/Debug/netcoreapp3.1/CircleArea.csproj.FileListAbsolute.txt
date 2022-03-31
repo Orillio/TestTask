@@ -1,0 +1,14 @@
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/bin/Debug/netcoreapp3.1/CircleArea.deps.json
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/bin/Debug/netcoreapp3.1/CircleArea.runtimeconfig.json
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/bin/Debug/netcoreapp3.1/CircleArea.runtimeconfig.dev.json
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/bin/Debug/netcoreapp3.1/CircleArea.dll
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/bin/Debug/netcoreapp3.1/CircleArea.pdb
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/obj/Debug/netcoreapp3.1/CircleArea.AssemblyInfoInputs.cache
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/obj/Debug/netcoreapp3.1/CircleArea.AssemblyInfo.cs
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/obj/Debug/netcoreapp3.1/CircleArea.csproj.CoreCompileInputs.cache
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/obj/Debug/netcoreapp3.1/CircleArea.dll
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/obj/Debug/netcoreapp3.1/CircleArea.pdb
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/obj/Debug/netcoreapp3.1/CircleArea.genruntimeconfig.cache
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/bin/Debug/netcoreapp3.1/CircleArea
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/obj/Debug/netcoreapp3.1/CircleArea.csproj.AssemblyReference.cache
+/Users/ykozyrenko/Desktop/NET/CircleArea/CircleArea/obj/Debug/netcoreapp3.1/CircleArea.GeneratedMSBuildEditorConfig.editorconfig
